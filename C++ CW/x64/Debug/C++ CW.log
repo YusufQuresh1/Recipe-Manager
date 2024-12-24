@@ -1,0 +1,16 @@
+﻿  recipeManager.cpp
+C:\Users\yusuf\OneDrive - City, University of London\C++\C++ CW\C++ CW\recipeManager.cpp(61,40): warning C4244: '+=': conversion from '_Ty2' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Users\yusuf\OneDrive - City, University of London\C++\C++ CW\C++ CW\recipeManager.cpp(64,64): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+  C++ CW.vcxproj -> C:\Users\yusuf\OneDrive - City, University of London\C++\C++ CW\x64\Debug\C++ CW.exe
